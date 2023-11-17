@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * A classe login é reponsavel de criar usuários
+ * A classe TelaLogin é reponsavel de criar usuários
  * @author Gabriel Verlangieri de Souza
  */
 
